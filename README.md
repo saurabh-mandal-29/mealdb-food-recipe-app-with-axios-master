@@ -15,7 +15,7 @@ Recipe Quest is a robust food recipe web application developed using **React JS*
 
 Check out the live demo of Recipe Quest here:
 
-👉 [**Live Demo**]([https://your-project-link.com](https://recipe-quest-five.vercel.app/))
+👉 [**Live Demo**](https://recipe-quest-five.vercel.app/)
 
 ## Features
 
